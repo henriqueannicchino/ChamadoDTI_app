@@ -39,6 +39,7 @@
             android:layout_marginTop="40dp"/>
 
         <EditText
+            android:id="@+id/edIdent"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@drawable/login_edittext_bg"
@@ -59,6 +60,7 @@
             android:layout_marginTop="40dp"/>
 
         <EditText
+            android:id="@+id/edPassword"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:inputType="textPassword"
@@ -72,6 +74,7 @@
             android:hint="@string/password_hint"/>
 
         <Button
+            android:id="@+id/btnLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/login_button_bg"

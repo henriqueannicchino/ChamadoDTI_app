@@ -6,5 +6,5 @@
     <string name="forgot_your_login_info">FORGOT YOUR LOGIN INFO?</string>
     <string name="sign_in">SIGN IN</string>
     <string name="remember_my_password">REMEMBER MY PASSWORD</string>
-    <string name="username">Username</string>
+    <string name="username">Matricula/Siape</string>
 </resources>
